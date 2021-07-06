@@ -23,7 +23,7 @@ export default class CoverageExample {
     } else {
       if (number < 10) {
         if (number < 4) {
-          return "adding for sonarcloud change";
+          return 'adding for sonarcloud change';
         } else {
           return 'go';
         }
